@@ -1,0 +1,4 @@
+- Total commits on main: 7
+- First commit hash: f425aef
+- Latest commit hash: 0040849
+- Summary of changes to views/about.ejs: added the about page and updated later, also including resolving a merge conflict.
